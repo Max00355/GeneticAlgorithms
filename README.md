@@ -1,7 +1,7 @@
 About
 =====
 
-A collection og scripts I have written while learning to write genetic algorithms.
+A collection of scripts I have written while learning to write genetic algorithms.
 
 
 Scripts
